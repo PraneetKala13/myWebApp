@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pjkal\\Documents\\DevOps_Training\\myWebApp\\myWebApp.csproj": {}
+    "C:\\Users\\pjkal\\Documents\\DevOps_Training\\Git\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pjkal\\Documents\\DevOps_Training\\myWebApp\\myWebApp.csproj": {
+    "C:\\Users\\pjkal\\Documents\\DevOps_Training\\Git\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pjkal\\Documents\\DevOps_Training\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\pjkal\\Documents\\DevOps_Training\\Git\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "c:\\Users\\pjkal\\Documents\\DevOps_Training\\myWebApp\\myWebApp.csproj",
+        "projectPath": "C:\\Users\\pjkal\\Documents\\DevOps_Training\\Git\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\pjkal\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pjkal\\Documents\\DevOps_Training\\myWebApp\\obj\\",
+        "outputPath": "C:\\Users\\pjkal\\Documents\\DevOps_Training\\Git\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pjkal\\AppData\\Roaming\\NuGet\\NuGet.Config"
